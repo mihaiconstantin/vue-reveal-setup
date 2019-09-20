@@ -11,8 +11,8 @@ Handy minimal setup for using [`reveal.js`](https://github.com/hakimel/reveal.js
 [`Vue`](https://github.com/vuejs/vue) components can be used as slides for [`reveal.js`](https://github.com/hakimel/reveal.js) with scoped styles. 
 
 Main files and folders of interest: 
-- [`content/Presentation.vue`](content\presentation\Presentation.vue)
-- [`content/presentation/slides`](content\presentation\slides)
+- [`content/Presentation.vue`](content/presentation/Presentation.vue)
+- [`content/presentation/slides`](content/presentation/slides)
 
 **Need to be served via the `http` protocol** (e.g., a simple local web server would do). 
 
